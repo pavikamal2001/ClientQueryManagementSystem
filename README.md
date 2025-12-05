@@ -1,2 +1,4 @@
 # ClientQueryManagementSystem
-The Client Query Management System is a simple web application built using Streamlit, PostgreSQL, and Python to help teams manage client issues more efficiently. Clients can log in and submit their queries, and the support team can review, update, and close them. 
+The Client Query Management System is a simple web application built using Streamlit, PostgreSQL, and Python to help teams manage client issues more efficiently.
+Clients can easily submit their issues, which are securely stored in a database. The support team can then review these queries, update their status, and close them once resolved. To handle data effectively, the system uses Pandas for cleaning and displaying information, while Streamlit provides a user-friendly and interactive front-end interface.
+This project integrates Python, SQL databases, and real-time UI elements to ensure smoother communication, quicker issue resolution, and enhanced customer satisfaction. Overall, it provides a professional, organized workflow for managing support-related tasks in any organization.
